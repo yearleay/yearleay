@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+<title>Sala</title>
+<style> 
+body{
+    background-color: cyan;
+    color: black;
+}
+#base{
+    color: darkslateblue;
+    position: absolute;
+    left: 4%;
+}
+#ytnm{
+    position: absolute;
+    left: 4%;
+    top: 8%;
+}
+#ytlg{
+    position: absolute;
+    left: 4%;
+    top: 15%;
+}
+#kalg{
+    position: absolute;
+    left: 52%;
+    top: 15%;
+}
+#kanm{
+    position: absolute;
+    left: 52%;
+    top: 8%;
+}
+
+</style>
+
+
+</head>
+<body>
+<h1 id="base">Sala.yr</h1>
+<h3 id="ytnm">YouTube</h3>
+<a target="_blank" href="https://www.youtube.com/"><img id="ytlg" src="https://yt3.googleusercontent.com/ytc/AOPolaQAhh57p0O99GwlrI2lFQyUc5DJRhbQJrBQr-DTQQ=s900-c-k-c0x00ffffff-no-rj"
+alt="YouTube image" width="250px"></a>
+<h3 id="kanm">KhanAcademy</h3>
+<a target="_blank" href="https://es.khanacademy.org/"><img  id="kalg" src="https://seeklogo.com/images/K/khan-academy-logo-EFA43B86E0-seeklogo.com.png"
+alt="Khan Academy img" width="250px"></a>
+
+
+</body>
